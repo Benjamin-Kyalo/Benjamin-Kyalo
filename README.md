@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Benjamin Kyalo
 
-<!--
-**Benjamin-Kyalo/Benjamin-Kyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Backend Developer in training through **ALX PRODEV**
+- 🛠 Building **RESTful APIs** with **Node.js**, **Express**, and **PostgreSQL**
+- 🚀 Passionate about scalable, secure server-side architectures
+- 📫 Reach me at: benjie.kyalo@gmail.com | [LinkedIn] https://www.linkedin.com/in/benjamin-kyalo-backend/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Working On
+- **ALX Capstone** – Microservices suite with JWT auth & Docker orchestration  
+- **Project X** – CRUD API for [use case], integrated with OAuth2  
+
+---
+
+### 🌱 Skills & Tools
+`Node.js` · `Express` · `PostgreSQL` · `Docker` · `REST APIs` · `JWT`
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Kyalo&show_icons=true)
